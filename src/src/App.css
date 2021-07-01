@@ -1,0 +1,8 @@
+.wrapper{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#particles-js canvas {
+  position: fixed;
+}
