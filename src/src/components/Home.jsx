@@ -440,7 +440,7 @@ class Home extends Component {
             </div>
             <div className="links">
               <div className="container">
-                © 2021 FLOKI INU </INU> | All Rights Reserved.
+                © 2021 FLOKI INU | All Rights Reserved.
               <ul>
                 <li>
                   <a href="javascript:void(0)">Branding</a>

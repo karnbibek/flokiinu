@@ -1,0 +1,28 @@
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  display: flex;
+  justify-content: center;
+  margin: 4rem 12rem;
+}
+
+.video-responsive iframe {
+  /* left: 0;
+  top: 0; */
+  height: 60%;
+  width: 100%;
+  position: absolute;
+}
+
+@media only screen and (max-width: 797px) {
+    .video-responsive {
+        margin: 4rem 6rem;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .video-responsive {
+        margin: 4rem 4rem;
+    }
+}
